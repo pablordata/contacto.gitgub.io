@@ -4,7 +4,7 @@
 theme: default
 
 # HTML Language setting
-lang: "en"
+lang: "es"
 
 # Plugins, implemented in ./plugins/PLUGIN_NAME
 # Use {{ vars.PLUGIN_NAME }} in the settings below
@@ -31,11 +31,11 @@ title: "ZhgChgLi's Links"
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "PABLO RIVERA"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    Ingeniera de software con más de 3 años de experiencia diseñando soluciones tecnológicas de impacto 💡✨. Experta en SQL, Python y computación en la nube, especializada en AWS ☁️. Apasionada por la ingeniería de datos y la innovación 🖥️📈.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
